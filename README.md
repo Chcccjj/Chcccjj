@@ -40,6 +40,6 @@
 ## 🐍 Contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chcccjj/Chcccjj/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Chcccjj/Chcccjj/output/github-snake.svg" alt="Chcccjj's GitHub contribution snake" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chcccjj/Chcccjj/output/github-snake-dark.svg?v=1" />
+  <img src="https://raw.githubusercontent.com/Chcccjj/Chcccjj/output/github-snake.svg?v=1" alt="Chcccjj's GitHub contribution snake" />
 </picture>
